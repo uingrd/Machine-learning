@@ -1,6 +1,6 @@
 ## Cost function
 
-![cost_function](https://github.com/chanchann/MIT-machine-learning-notes/blob/master/img/cost_function_1.png)
+![cost_function](https://github.com/chanchann/MIT-machine-learning-notes/blob/master/img/cost_function_1.png?raw=true)
 
 <p id = "build"></p>
 ---
