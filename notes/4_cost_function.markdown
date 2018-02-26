@@ -1,6 +1,6 @@
 ## Cost function
 
-$$J(\theta_0, \theta_1) = \dfrac {1}{2m} \displaystyle \sum _{i=1}^m \left ( \hat{y}_{i}- y_{i} \right)^2 = \dfrac {1}{2m} \displaystyle \sum _{i=1}^m \left (h_\theta (x_{i}) - y_{i} \right)^2$$
+![cost_function](https://github.com/chanchann/MIT-machine-learning-notes/blob/master/img/cost_function_1.png)
 
 <p id = "build"></p>
 ---
