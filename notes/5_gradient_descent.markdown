@@ -22,4 +22,4 @@ Depending on where one starts on the graph, one could end up at different points
 
 At each iteration j, one should simultaneously update the parameters.
 
-![simultaneously_update](https://github.com/chanchann/MIT-machine-learning-notes/blob/master/img/Simultaneous_update.png)
+![simultaneously_update](https://github.com/chanchann/MIT-machine-learning-notes/blob/master/img/Simultaneous_update.png?raw=true)
