@@ -1,19 +1,14 @@
-# MIT-machine-learning-notes
+# Machine Learning
 
-## Introduction
+这是我的机器学习代码和笔记仓库
 
-The course lecture slides are all in the slides file.
+## Andrew Ng's course
+------------
+- 课程pdf
+- 课程笔记
+- 课程作业(代码)
 
-I write some notes in notes file.
-
-## Coursera
-
-you can watch the video.Here's the link:[Machine learning](https://www.coursera.org/learn/machine-learning/supplement/2GnUg/gradient-descent)
-
-## Professor 
-
-[Andrew_Ng](https://en.wikipedia.org/wiki/Andrew_Ng).
-
-## Suggestion
-There are too many formulas,so I suggest you to download [MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)
-
+## Google develper
+-----------------
+- 课程笔记
+- 课程代码
